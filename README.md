@@ -1,4 +1,4 @@
-Desktop version of the dashboard:
+Desktop version of the dashboard clone:
 <img width="1082" alt="Screenshot 2024-01-09 at 10 03 19 PM" src="https://github.com/RishikaMandhyan/dukaan-cashfree-dashboard/assets/54908793/67fe7a0f-1d93-4f3d-ae7f-3fc637427525">
 
 
